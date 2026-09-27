@@ -19,6 +19,8 @@
 - 📈 I optimize websites for search engines (**SEO**)
 - 🧩 I build **WordPress** websites and custom **WordPress plugins**
 - ☁️ I set up **Cloudflare** for speed, security & DNS
+- 🎮 I make games with **Unity** (C#)
+- 🐍 I build web apps with **Python / Flask**
 - 🎓 Certified Web Developer
 - 📫 Open to freelance projects and collaborations
 
@@ -45,7 +47,15 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</p>
+
+**Game Development**
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
 **CMS, SEO & Tools**
@@ -67,6 +77,8 @@
 - 🌐 **Websites & Web Apps** — responsive, fast and SEO-friendly
 - 🧩 **WordPress** — full websites, WooCommerce stores & custom plugins
 - 🎨 **UI/UX Design** — wireframes, prototypes and polished interfaces
+- 🎮 **Unity Games** — 2D/3D games built with Unity & C#
+- 🐍 **Python Web Apps** — Flask apps with admin panels & databases
 
 ### 🖼 Featured Work
 
@@ -80,6 +92,7 @@
 | **Network Book** | Online bookstore | [📂 Repo](https://github.com/zeroux-dev/network-book-showcase) | [🌐 network-book.ir](https://network-book.ir) |
 | **Nila Gallery** | Hair accessories shop | [📂 Repo](https://github.com/zeroux-dev/nila-gallery-showcase) | [🌐 nilagallery.ir](https://nilagallery.ir) |
 | **Kharazi Tavos** | Sewing & craft supplies | [📂 Repo](https://github.com/zeroux-dev/kharazi-tavos-showcase) | [🌐 kharazitavos.com](https://kharazitavos.com) |
+| **TechBlog (Flask)** | Python blog + admin panel | [📂 Repo](https://github.com/zeroux-dev/flask-tech-blog) | [🚀 Live demo](https://zeroux-dev.github.io/flask-tech-blog/) |
 
 > Many client projects are private. Screenshots and live demos are available on request.
 
