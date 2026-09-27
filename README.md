@@ -74,12 +74,12 @@
   <img src="./assets/portfolio-slider.gif" alt="Portfolio slider" width="85%" />
 </p>
 
-<p align="center">
-  <a href="https://zxacc.store">zxacc.store</a> ·
-  <a href="https://network-book.ir">network-book.ir</a> ·
-  <a href="https://nilagallery.ir">nilagallery.ir</a> ·
-  <a href="https://kharazitavos.com">kharazitavos.com</a>
-</p>
+| Project | Type | Showcase | Live |
+|---|---|---|---|
+| **ZxAcc** | Premium accounts store | [📂 Repo](https://github.com/zeroux-dev/zxacc-store-showcase) | [🌐 zxacc.store](https://zxacc.store) |
+| **Network Book** | Online bookstore | [📂 Repo](https://github.com/zeroux-dev/network-book-showcase) | [🌐 network-book.ir](https://network-book.ir) |
+| **Nila Gallery** | Hair accessories shop | [📂 Repo](https://github.com/zeroux-dev/nila-gallery-showcase) | [🌐 nilagallery.ir](https://nilagallery.ir) |
+| **Kharazi Tavos** | Sewing & craft supplies | [📂 Repo](https://github.com/zeroux-dev/kharazi-tavos-showcase) | [🌐 kharazitavos.com](https://kharazitavos.com) |
 
 > Many client projects are private. Screenshots and live demos are available on request.
 
@@ -97,6 +97,10 @@
 ### 📫 Contact
 
 💬 Open to freelance projects — feel free to reach out!
+
+<p align="center">
+  <a href="https://t.me/fesqhli"><img src="https://img.shields.io/badge/Telegram-@fesqhli-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
 
 <p align="center">
   <img src="./assets/sound-wave.svg" alt="sound wave" width="80%" />
